@@ -668,7 +668,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-24 03:26:39 +0000",
       "minecraft:spider": "2024-12-24 03:29:02 +0000",
-      "minecraft:zombie": "2024-12-24 03:34:45 +0000"
+      "minecraft:zombie": "2024-12-24 03:34:45 +0000",
+      "minecraft:creeper": "2024-12-24 04:58:51 +0000"
     },
     "done": false
   },
@@ -1575,6 +1576,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-24 04:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-24 04:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-24 04:58:55 +0000"
     },
     "done": true
   },
