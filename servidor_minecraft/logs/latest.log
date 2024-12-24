@@ -85,3 +85,8 @@
 [24Dec2024 08:28:33.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
 [24Dec2024 08:30:15.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24736, l='ServerLevel[world]', x=-63.71, y=63.19, z=13.74] died, message: 'Villager was slain by Zombie'
 [24Dec2024 08:39:47.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported kevin03x to RAKNAROZ
+[24Dec2024 08:48:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was slain by Zombie
+[24Dec2024 08:48:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ was slain by Zombie
+[24Dec2024 08:49:27.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Suit Up]
+[24Dec2024 08:49:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Diamonds!]
+[24Dec2024 08:50:04.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Hot Stuff]
