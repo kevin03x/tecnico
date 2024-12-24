@@ -7,15 +7,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-12-24 03:41:39 +0000",
+      "minecraft:flower_forest": "2024-12-24 08:26:34 +0000",
       "minecraft:beach": "2024-12-24 06:44:12 +0000",
       "minecraft:forest": "2024-12-24 03:27:29 +0000",
       "minecraft:sparse_jungle": "2024-12-24 08:07:20 +0000",
       "minecraft:river": "2024-12-24 03:10:35 +0000",
       "minecraft:lukewarm_ocean": "2024-12-24 08:14:44 +0000",
-      "minecraft:birch_forest": "2024-12-24 03:39:15 +0000",
       "minecraft:stony_shore": "2024-12-24 06:43:57 +0000",
+      "minecraft:snowy_plains": "2024-12-24 08:31:42 +0000",
+      "minecraft:dripstone_caves": "2024-12-24 08:34:56 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-24 03:41:39 +0000",
+      "minecraft:frozen_river": "2024-12-24 08:31:52 +0000",
+      "minecraft:jungle": "2024-12-24 08:18:48 +0000",
+      "minecraft:sunflower_plains": "2024-12-24 08:25:33 +0000",
+      "minecraft:birch_forest": "2024-12-24 03:39:15 +0000",
       "minecraft:savanna": "2024-12-05 01:54:57 +0000",
+      "minecraft:bamboo_jungle": "2024-12-24 08:22:01 +0000",
       "minecraft:plains": "2024-12-24 03:26:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-24 08:15:24 +0000"
     },
@@ -672,6 +679,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-24 03:26:39 +0000",
+      "minecraft:stray": "2024-12-24 08:33:39 +0000",
       "minecraft:spider": "2024-12-24 03:29:02 +0000",
       "minecraft:zombie": "2024-12-24 03:34:45 +0000",
       "minecraft:creeper": "2024-12-24 04:58:51 +0000"
@@ -1866,21 +1874,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-24 08:13:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-24 08:13:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2024-12-24 08:13:16 +0000"
     },
     "done": true
   },
@@ -1908,27 +1904,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-24 08:13:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-24 08:13:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-24 08:13:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2024-12-24 08:13:16 +0000"
     },
     "done": true
   },
@@ -1941,6 +1919,42 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-24 08:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 08:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 08:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-24 08:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 08:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 08:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-24 08:13:16 +0000"
     },
     "done": true
   },
@@ -1968,9 +1982,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_planks": "2024-12-24 08:13:01 +0000"
+      "has_pointed_dripstone": "2024-12-24 08:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 08:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 08:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 08:21:59 +0000"
     },
     "done": true
   },
