@@ -611,3 +611,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Dec2024 08:05:46.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 08:05:46.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 08:09:22.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/12, l='ServerLevel[world]', x=-95.68, y=63.19, z=-64.85] died, message: 'Cartographer suffocated in a wall'
+[24Dec2024 08:10:36.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[24Dec2024 08:10:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[24Dec2024 08:10:46.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 08:10:46.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 08:11:02.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ was slain by Zombie
+[24Dec2024 08:11:50.779] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[24Dec2024 08:11:50.779] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[24Dec2024 08:11:50.779] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[24Dec2024 08:11:50.779] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[24Dec2024 08:11:50.779] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@9079534 into net.minecraft.network.Connection@1d021684
+[24Dec2024 08:11:51.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.0.1.169:33681] logged in with entity id 12467 at (-454.3020681515087, 67.0, -262.49687278484754)
+[24Dec2024 08:11:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[24Dec2024 08:15:46.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 08:15:46.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 08:16:08.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[24Dec2024 08:16:08.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[24Dec2024 08:16:27.218] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[24Dec2024 08:16:27.218] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[24Dec2024 08:16:27.218] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[24Dec2024 08:16:27.218] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[24Dec2024 08:16:27.218] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5c67973b into net.minecraft.network.Connection@3bba14e1
+[24Dec2024 08:16:28.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.0.1.169:43985] logged in with entity id 15112 at (-972.6537857895448, 62.11076431274414, -470.38328041643507)
+[24Dec2024 08:16:28.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[24Dec2024 08:19:08.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of kevin03x) moved too quickly! -8.535478316340232,0.0,-5.941847858163669
+[24Dec2024 08:19:08.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of kevin03x) moved too quickly! -8.86376594385706,0.0,-6.17038046814389
+[24Dec2024 08:19:08.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of kevin03x) moved too quickly! -9.192053571373208,0.0,-6.398913078125247
+[24Dec2024 08:19:08.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of kevin03x) moved too quickly! -9.520341198888673,0.0,-6.627445688107628
+[24Dec2024 08:19:08.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of kevin03x) moved too quickly! -9.848628826403456,0.0,-6.855978298090918
+[24Dec2024 08:19:08.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of kevin03x) moved too quickly! -10.176916453917556,0.0,-7.0845109080750035
+[24Dec2024 08:19:08.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of kevin03x) moved too quickly! -10.505204081431202,0.0,-7.313043518059885
