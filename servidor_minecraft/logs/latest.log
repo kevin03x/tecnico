@@ -62,3 +62,5 @@
 [24Dec2024 07:41:10.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
 [24Dec2024 07:41:17.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.0.1.169:48407] logged in with entity id 311 at (172.69999998807907, 62.0, 42.83435361951977)
 [24Dec2024 07:41:17.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[24Dec2024 08:01:16.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [-4195550799847606772]
+[24Dec2024 08:09:22.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/12, l='ServerLevel[world]', x=-95.68, y=63.19, z=-64.85] died, message: 'Cartographer suffocated in a wall'
