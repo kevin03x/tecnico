@@ -64,3 +64,6 @@
 [25Dec2024 04:54:39.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.236.142.157:39301] logged in with entity id 21 at (158.4207231879117, 53.0, -50.12910836857102)
 [25Dec2024 04:54:39.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [25Dec2024 04:54:43.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[25Dec2024 05:21:27.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[25Dec2024 05:21:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[25Dec2024 05:22:27.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
