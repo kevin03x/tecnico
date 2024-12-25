@@ -612,3 +612,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Dec2024 05:22:27.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
 [25Dec2024 05:22:27.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 05:22:27.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 06:13:31.003] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[25Dec2024 06:13:31.003] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[25Dec2024 06:13:31.004] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[25Dec2024 06:13:31.004] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[25Dec2024 06:13:31.005] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@648da9a1 into net.minecraft.network.Connection@548f0c74
+[25Dec2024 06:13:32.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.128.113.242:54821] logged in with entity id 3848 at (157.8641326576317, 53.0, -47.66330329790482)
+[25Dec2024 06:13:32.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
+[25Dec2024 06:18:09.155] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[25Dec2024 06:18:09.156] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[25Dec2024 06:18:09.156] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[25Dec2024 06:18:09.156] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[25Dec2024 06:18:09.157] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@31a1ce0b into net.minecraft.network.Connection@657bb5fc
+[25Dec2024 06:18:14.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.236.142.157:36185] logged in with entity id 5643 at (112.93743118080324, 67.5625, 1.7402590738188382)
+[25Dec2024 06:18:14.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[25Dec2024 06:18:32.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 06:18:32.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
