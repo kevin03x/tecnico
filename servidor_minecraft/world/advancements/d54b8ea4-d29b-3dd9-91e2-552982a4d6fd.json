@@ -2123,5 +2123,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-25 07:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2024-12-25 07:03:31 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 4082
 }
