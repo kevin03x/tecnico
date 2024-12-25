@@ -597,3 +597,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Dec2024 04:54:39.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [25Dec2024 04:54:40.919] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/entity/trialspawner/TrialSpawner
 [25Dec2024 04:54:43.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[25Dec2024 04:59:41.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 04:59:41.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 05:04:41.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 05:04:41.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
