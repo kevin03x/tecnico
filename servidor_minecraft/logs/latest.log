@@ -71,3 +71,4 @@
 [25Dec2024 06:13:32.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
 [25Dec2024 06:18:14.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.236.142.157:36185] logged in with entity id 5643 at (112.93743118080324, 67.5625, 1.7402590738188382)
 [25Dec2024 06:18:14.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[25Dec2024 06:39:59.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x moved wrongly!
