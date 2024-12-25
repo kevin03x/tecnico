@@ -546,7 +546,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-25 06:14:16 +0000",
-      "bread": "2024-12-24 02:55:55 +0000"
+      "bread": "2024-12-24 02:55:55 +0000",
+      "cooked_mutton": "2024-12-25 06:22:40 +0000"
     },
     "done": false
   },
@@ -1825,6 +1826,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-24 09:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-25 06:21:51 +0000"
     },
     "done": true
   },
