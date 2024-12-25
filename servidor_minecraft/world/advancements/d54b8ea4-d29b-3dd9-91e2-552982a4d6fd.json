@@ -15,6 +15,7 @@
       "minecraft:lukewarm_ocean": "2024-12-24 08:14:44 +0000",
       "minecraft:stony_shore": "2024-12-24 06:43:57 +0000",
       "minecraft:snowy_plains": "2024-12-24 08:31:42 +0000",
+      "minecraft:lush_caves": "2024-12-25 06:51:56 +0000",
       "minecraft:dripstone_caves": "2024-12-24 08:34:56 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-24 03:41:39 +0000",
       "minecraft:frozen_river": "2024-12-24 08:31:52 +0000",
@@ -2113,6 +2114,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-25 06:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-25 06:41:15 +0000"
     },
     "done": true
   },
