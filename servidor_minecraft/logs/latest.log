@@ -54,3 +54,6 @@
 [26Dec2024 04:25:01.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.155.233.198:34057] logged in with entity id 401 at (32.593651488215116, 76.79673560066871, 9.688455328989589)
 [26Dec2024 04:25:01.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [26Dec2024 04:25:18.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/605, l='ServerLevel[world]', x=-1.45, y=70.00, z=181.57]
+[26Dec2024 04:45:03.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/178, l='ServerLevel[world]', x=115.70, y=63.94, z=-51.34] died, message: 'Farmer was slain by Zombie'
+[26Dec2024 04:45:15.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/3031, l='ServerLevel[world]', x=115.70, y=63.94, z=-50.66] died, message: 'Leatherworker was slain by Zombie'
+[26Dec2024 04:50:12.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/180, l='ServerLevel[world]', x=156.50, y=53.06, z=-51.49] died, message: 'Villager suffocated in a wall'

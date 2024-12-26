@@ -597,3 +597,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Dec2024 04:39:21.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 04:39:21.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 04:39:34.559] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[26Dec2024 04:44:21.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:44:21.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:45:03.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/178, l='ServerLevel[world]', x=115.70, y=63.94, z=-51.34] died, message: 'Farmer was slain by Zombie'
+[26Dec2024 04:45:15.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/3031, l='ServerLevel[world]', x=115.70, y=63.94, z=-50.66] died, message: 'Leatherworker was slain by Zombie'
+[26Dec2024 04:49:21.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:49:21.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:50:12.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/180, l='ServerLevel[world]', x=156.50, y=53.06, z=-51.49] died, message: 'Villager suffocated in a wall'
