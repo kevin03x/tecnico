@@ -705,3 +705,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Dec2024 06:21:22.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
 [26Dec2024 06:22:52.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 06:22:52.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 06:27:52.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 06:27:52.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 06:28:07.108] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 06:28:07.109] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 06:28:07.109] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[26Dec2024 06:28:07.109] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[26Dec2024 06:28:07.109] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@61f21545 into net.minecraft.network.Connection@2c7102b
+[26Dec2024 06:28:07.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:39473] logged in with entity id 34133 at (102.79344748679763, 64.0, -42.92999331259148)
+[26Dec2024 06:28:07.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
+[26Dec2024 06:28:30.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> si ya la encontro ya se puede hacer tp
+[26Dec2024 06:28:47.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> yo voy a preparar lo la granja
+[26Dec2024 06:29:56.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> donde la encontro
+[26Dec2024 06:31:07.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> hola
+[26Dec2024 06:31:17.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> dide la encontro
+[26Dec2024 06:32:17.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported kevin03x to RAKNAROZ
+[26Dec2024 06:32:47.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> nooooo
+[26Dec2024 06:32:52.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 06:32:53.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 06:34:26.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported kevin03x to 2234.500000, -30.000000, -584.500000
+[26Dec2024 06:34:53.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported kevin03x to RAKNAROZ
+[26Dec2024 06:35:19.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> necesito el barco asjasj
+[26Dec2024 06:35:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> y el yunque
+[26Dec2024 06:35:49.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> son 2 vs 2
+[26Dec2024 06:36:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> pille
+[26Dec2024 06:36:46.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> ahorita
+[26Dec2024 06:36:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> el yunque
+[26Dec2024 06:37:11.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26165, l='ServerLevel[world]', x=155.49, y=52.00, z=-46.30] died, message: 'Villager suffocated in a wall'
+[26Dec2024 06:37:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> si
+[26Dec2024 06:37:30.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> si
+[26Dec2024 06:37:52.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 06:37:52.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
