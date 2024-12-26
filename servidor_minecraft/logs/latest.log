@@ -61,3 +61,14 @@
 [26Dec2024 05:07:58.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.155.233.198:56595] logged in with entity id 94 at (157.21101427219128, 53.0, -48.47729496930758)
 [26Dec2024 05:07:58.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [26Dec2024 05:08:16.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5366ms or 107 ticks behind
+[26Dec2024 05:28:51.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2333, l='ServerLevel[world]', x=155.87, y=52.00, z=-46.58] died, message: 'Villager suffocated in a wall'
+[26Dec2024 05:33:07.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> un phantom
+[26Dec2024 05:33:16.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[26Dec2024 05:33:16.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[26Dec2024 05:33:16.215] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 05:36:07.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.155.233.198:45611] logged in with entity id 9922 at (121.34754357169979, 64.0, 17.341699741230812)
+[26Dec2024 05:36:07.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[26Dec2024 05:42:32.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6195, l='ServerLevel[world]', x=155.46, y=52.00, z=-46.50] died, message: 'Villager suffocated in a wall'
+[26Dec2024 05:42:40.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> tiene hilo??
+[26Dec2024 05:42:58.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> ty
+[26Dec2024 05:46:29.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> me despiertan los bichos mano
