@@ -57,3 +57,6 @@
 [26Dec2024 04:45:03.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/178, l='ServerLevel[world]', x=115.70, y=63.94, z=-51.34] died, message: 'Farmer was slain by Zombie'
 [26Dec2024 04:45:15.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/3031, l='ServerLevel[world]', x=115.70, y=63.94, z=-50.66] died, message: 'Leatherworker was slain by Zombie'
 [26Dec2024 04:50:12.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/180, l='ServerLevel[world]', x=156.50, y=53.06, z=-51.49] died, message: 'Villager suffocated in a wall'
+[26Dec2024 05:02:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> si
+[26Dec2024 05:03:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> si
+[26Dec2024 05:03:25.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> necesito antorchas de redstone
