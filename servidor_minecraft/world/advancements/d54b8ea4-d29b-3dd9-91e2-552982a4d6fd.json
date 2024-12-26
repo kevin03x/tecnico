@@ -7,29 +7,32 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-26 06:04:31 +0000",
+      "minecraft:forest": "2024-12-24 03:27:29 +0000",
+      "minecraft:taiga": "2024-12-26 06:08:42 +0000",
+      "minecraft:lush_caves": "2024-12-25 06:51:56 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-26 06:05:33 +0000",
+      "minecraft:frozen_river": "2024-12-24 08:31:52 +0000",
+      "minecraft:windswept_forest": "2024-12-26 05:53:39 +0000",
+      "minecraft:jungle": "2024-12-24 08:18:48 +0000",
+      "minecraft:sunflower_plains": "2024-12-24 08:25:33 +0000",
+      "minecraft:birch_forest": "2024-12-24 03:39:15 +0000",
+      "minecraft:bamboo_jungle": "2024-12-24 08:22:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-24 08:15:24 +0000",
       "minecraft:flower_forest": "2024-12-24 08:26:34 +0000",
       "minecraft:beach": "2024-12-24 06:44:12 +0000",
       "minecraft:dark_forest": "2024-12-26 03:15:56 +0000",
-      "minecraft:forest": "2024-12-24 03:27:29 +0000",
       "minecraft:sparse_jungle": "2024-12-24 08:07:20 +0000",
       "minecraft:river": "2024-12-24 03:10:35 +0000",
       "minecraft:lukewarm_ocean": "2024-12-24 08:14:44 +0000",
       "minecraft:stony_shore": "2024-12-24 06:43:57 +0000",
       "minecraft:snowy_plains": "2024-12-24 08:31:42 +0000",
-      "minecraft:lush_caves": "2024-12-25 06:51:56 +0000",
       "minecraft:dripstone_caves": "2024-12-24 08:34:56 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-24 03:41:39 +0000",
-      "minecraft:frozen_river": "2024-12-24 08:31:52 +0000",
-      "minecraft:windswept_forest": "2024-12-26 05:53:39 +0000",
-      "minecraft:jungle": "2024-12-24 08:18:48 +0000",
-      "minecraft:sunflower_plains": "2024-12-24 08:25:33 +0000",
       "minecraft:swamp": "2024-12-26 05:55:45 +0000",
       "minecraft:meadow": "2024-12-26 03:15:35 +0000",
-      "minecraft:birch_forest": "2024-12-24 03:39:15 +0000",
       "minecraft:savanna": "2024-12-05 01:54:57 +0000",
-      "minecraft:bamboo_jungle": "2024-12-24 08:22:01 +0000",
-      "minecraft:plains": "2024-12-24 03:26:21 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-12-24 08:15:24 +0000"
+      "minecraft:plains": "2024-12-24 03:26:21 +0000"
     },
     "done": false
   },
@@ -2570,6 +2573,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-26 05:56:15 +0000"
@@ -2579,6 +2600,30 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-26 05:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
     },
     "done": true
   },
@@ -2594,9 +2639,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 05:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-26 06:17:54 +0000"
     },
     "done": true
   },
@@ -2612,9 +2711,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-26 05:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 06:15:24 +0000"
     },
     "done": true
   },
@@ -2633,6 +2744,30 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-26 05:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-26 06:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:15:18 +0000"
     },
     "done": true
   },
