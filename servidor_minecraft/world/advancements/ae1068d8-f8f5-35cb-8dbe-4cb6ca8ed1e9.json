@@ -549,6 +549,7 @@
       "apple": "2024-12-25 06:14:16 +0000",
       "bread": "2024-12-24 02:55:55 +0000",
       "cooked_mutton": "2024-12-25 06:22:40 +0000",
+      "cooked_cod": "2024-12-26 06:40:31 +0000",
       "cooked_salmon": "2024-12-26 06:36:58 +0000",
       "carrot": "2024-12-26 06:06:00 +0000"
     },
@@ -2090,6 +2091,36 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-26 05:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-26 06:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 06:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-26 06:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 06:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-26 06:44:57 +0000"
     },
     "done": true
   },
