@@ -587,3 +587,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Dec2024 02:05:49.725] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Spider['Spider'/80, l='ServerLevel[world]', x=158.65, y=-16.00, z=100.45]
 [26Dec2024 02:05:49.727] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/82, l='ServerLevel[world]', x=167.57, y=120.00, z=96.59]
 [26Dec2024 02:05:49.843] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Zombie['Zombie'/91, l='ServerLevel[world]', x=229.50, y=70.00, z=98.83]
+[26Dec2024 02:10:48.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:10:48.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:15:47.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 02:15:48.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 02:17:41.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Enchanter]
