@@ -57,3 +57,4 @@
 [29Dec2024 20:00:44.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: RAKNAROZ
 [29Dec2024 20:00:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e RAKNAROZ survival<--[HERE]
 [29Dec2024 20:01:22.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
+[29Dec2024 20:24:03.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ moved too quickly! -3.0232128126270936,-0.7518640014090607,-9.716375259143433
