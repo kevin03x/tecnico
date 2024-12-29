@@ -51,3 +51,6 @@
 [29Dec2024 19:38:23.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:59391] logged in with entity id 5 at (-99.08753793782631, 86.22296790798859, -41.63912503255264)
 [29Dec2024 19:38:23.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
 [29Dec2024 19:38:27.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[29Dec2024 19:47:30.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56, l='ServerLevel[world]', x=-95.38, y=83.39, z=-41.49] died, message: 'Villager was slain by RAKNAROZ'
+[29Dec2024 19:47:39.694] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28, l='ServerLevel[world]', x=-101.06, y=83.56, z=-41.42] died, message: 'Villager was slain by RAKNAROZ'
+[29Dec2024 19:48:02.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27, l='ServerLevel[world]', x=-97.51, y=83.56, z=-38.13] died, message: 'Villager was slain by RAKNAROZ'
