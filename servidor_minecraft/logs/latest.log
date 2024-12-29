@@ -58,3 +58,9 @@
 [29Dec2024 20:00:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e RAKNAROZ survival<--[HERE]
 [29Dec2024 20:01:22.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
 [29Dec2024 20:24:03.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ moved too quickly! -3.0232128126270936,-0.7518640014090607,-9.716375259143433
+[29Dec2024 20:51:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [-4195550799847606772]
+[29Dec2024 20:51:38.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 20:51:38.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 20:51:38.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[29Dec2024 20:51:38.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[29Dec2024 20:51:38.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
