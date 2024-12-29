@@ -58,3 +58,5 @@
 [29Dec2024 21:42:43.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
 [29Dec2024 21:42:59.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Armadillo['Armadillo'/280, l='ServerLevel[world]', x=-95.85, y=72.00, z=160.85]
 [29Dec2024 22:06:36.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1, l='ServerLevel[world]', x=155.30, y=52.00, z=-46.70] died, message: 'Villager suffocated in a wall'
+[29Dec2024 23:09:07.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Creative Mode
+[29Dec2024 23:09:35.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
