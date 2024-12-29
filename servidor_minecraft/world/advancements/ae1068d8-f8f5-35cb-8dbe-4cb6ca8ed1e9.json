@@ -14,7 +14,9 @@
       "minecraft:river": "2024-12-24 02:32:36 +0000",
       "minecraft:lukewarm_ocean": "2024-12-29 20:30:39 +0000",
       "minecraft:stony_shore": "2024-12-24 06:46:13 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-29 21:01:13 +0000",
       "minecraft:jungle": "2024-12-29 20:23:39 +0000",
+      "minecraft:swamp": "2024-12-29 21:01:35 +0000",
       "minecraft:birch_forest": "2024-12-29 20:23:54 +0000",
       "minecraft:windswept_hills": "2024-12-29 20:22:52 +0000",
       "minecraft:savanna": "2024-12-24 02:31:33 +0000",
@@ -2206,27 +2208,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2024-12-29 20:26:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2024-12-29 19:39:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2024-12-29 20:26:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-29 20:41:30 +0000"
     },
     "done": true
   },
@@ -2236,63 +2220,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-29 20:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 20:42:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 20:29:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-29 20:41:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-29 20:29:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-29 20:41:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_shovel": "2024-12-29 20:41:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-29 20:11:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_flint": "2024-12-29 20:41:30 +0000"
+      "has_chicken": "2024-12-29 20:11:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget": {
+  "minecraft:recipes/decorations/black_bed": {
     "criteria": {
-      "has_gold_ingot": "2024-12-29 20:41:28 +0000"
+      "has_black_wool": "2024-12-29 20:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-29 20:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-29 20:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-29 20:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-29 20:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-29 20:26:26 +0000"
     },
     "done": true
   },
@@ -2302,15 +2274,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-29 20:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 20:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 20:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-29 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-29 20:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 20:41:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
-      "has_chicken": "2024-12-29 20:11:54 +0000"
+      "has_gold_ingot": "2024-12-29 20:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-29 20:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-29 20:41:28 +0000"
     },
     "done": true
   },
@@ -2323,18 +2337,6 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 20:41:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-12-29 20:26:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_shovel": "2024-12-29 20:41:29 +0000"
     },
     "done": true
   },
@@ -2356,57 +2358,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 20:42:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 20:41:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2024-12-29 20:26:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2024-12-29 20:26:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2024-12-29 20:26:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-29 20:42:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-29 20:35:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 20:41:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-12-29 20:28:49 +0000"
     },
     "done": true
   },
@@ -2419,6 +2379,48 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 20:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-29 20:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-29 20:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-29 20:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-29 20:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 20:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 20:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 20:42:05 +0000"
     },
     "done": true
   },
