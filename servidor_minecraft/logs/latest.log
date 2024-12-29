@@ -54,3 +54,6 @@
 [29Dec2024 19:47:30.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56, l='ServerLevel[world]', x=-95.38, y=83.39, z=-41.49] died, message: 'Villager was slain by RAKNAROZ'
 [29Dec2024 19:47:39.694] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28, l='ServerLevel[world]', x=-101.06, y=83.56, z=-41.42] died, message: 'Villager was slain by RAKNAROZ'
 [29Dec2024 19:48:02.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27, l='ServerLevel[world]', x=-97.51, y=83.56, z=-38.13] died, message: 'Villager was slain by RAKNAROZ'
+[29Dec2024 20:00:44.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: RAKNAROZ
+[29Dec2024 20:00:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e RAKNAROZ survival<--[HERE]
+[29Dec2024 20:01:22.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
