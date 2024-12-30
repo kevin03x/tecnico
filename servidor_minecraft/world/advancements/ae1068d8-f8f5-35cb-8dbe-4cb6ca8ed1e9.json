@@ -604,7 +604,8 @@
       "minecraft:creeper": "2024-12-24 03:45:59 +0000",
       "minecraft:drowned": "2024-12-24 02:57:54 +0000",
       "minecraft:zombie_villager": "2024-12-24 09:21:33 +0000",
-      "minecraft:bogged": "2024-12-29 22:52:07 +0000"
+      "minecraft:bogged": "2024-12-29 22:52:07 +0000",
+      "minecraft:slime": "2024-12-30 00:07:34 +0000"
     },
     "done": false
   },
@@ -2440,6 +2441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 00:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-29 22:10:22 +0000"
@@ -2500,6 +2507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 00:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-12-29 22:24:35 +0000"
@@ -2527,6 +2540,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-29 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 00:07:41 +0000"
     },
     "done": true
   },
