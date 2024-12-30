@@ -6,3 +6,6 @@
 [30Dec2024 04:43:01.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69327, l='ServerLevel[world]', x=155.75, y=52.00, z=-46.30] died, message: 'Villager suffocated in a wall'
 [30Dec2024 05:01:35.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Take Aim]
 [30Dec2024 05:16:53.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has completed the challenge [Return to Sender]
+[30Dec2024 05:59:48.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[30Dec2024 05:59:48.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[30Dec2024 06:00:48.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
