@@ -82,3 +82,5 @@
 [03Jan2025 02:08:52.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
 [03Jan2025 02:24:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ was doomed to fall by Enderman
 [03Jan2025 02:46:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ fell from a high place
+[03Jan2025 02:52:02.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=169, y=57, z=11} BlockPos{x=158, y=59, z=20}
+[03Jan2025 02:56:24.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [A Seedy Place]
