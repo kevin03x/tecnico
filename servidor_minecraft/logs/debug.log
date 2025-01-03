@@ -603,3 +603,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jan2025 01:52:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [03Jan2025 01:53:43.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set kevin03x's game mode to Survival Mode
 [03Jan2025 01:54:25.793] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[03Jan2025 01:57:12.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 01:57:12.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 01:57:56.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was doomed to fall by kevin03x
+[03Jan2025 01:58:15.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ fell off a ladder
+[03Jan2025 01:58:42.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Cover Me with Diamonds]
+[03Jan2025 02:02:12.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 02:02:12.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
