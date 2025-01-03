@@ -104,3 +104,8 @@
 [03Jan2025 03:44:30.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.0.1.169:34033] logged in with entity id 35825 at (221.35000000000002, 56.65, 62.85)
 [03Jan2025 03:44:30.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [03Jan2025 03:45:49.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=64, z=-14} BlockPos{x=-83, y=62, z=-13}
+[03Jan2025 03:49:08.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[03Jan2025 03:49:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[03Jan2025 03:49:10.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[03Jan2025 03:49:10.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[03Jan2025 03:50:10.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing

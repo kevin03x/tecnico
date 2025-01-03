@@ -694,3 +694,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jan2025 03:45:49.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=64, z=-14} BlockPos{x=-83, y=62, z=-13}
 [03Jan2025 03:47:12.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 03:47:12.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:49:08.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[03Jan2025 03:49:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[03Jan2025 03:49:10.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[03Jan2025 03:49:10.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[03Jan2025 03:50:10.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[03Jan2025 03:50:10.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:50:10.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
