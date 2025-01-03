@@ -67,3 +67,16 @@
 [03Jan2025 01:57:56.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was doomed to fall by kevin03x
 [03Jan2025 01:58:15.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ fell off a ladder
 [03Jan2025 01:58:42.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Cover Me with Diamonds]
+[03Jan2025 02:08:41.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=230, y=62, z=0} BlockPos{x=231, y=61, z=0}
+[03Jan2025 02:08:51.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:51.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:52.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:52.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}
+[03Jan2025 02:08:52.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=251, y=61, z=0} BlockPos{x=250, y=61, z=1}

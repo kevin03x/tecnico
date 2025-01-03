@@ -692,6 +692,7 @@
       "minecraft:skeleton": "2024-12-24 03:26:39 +0000",
       "minecraft:piglin": "2024-12-26 04:34:35 +0000",
       "minecraft:stray": "2024-12-24 08:33:39 +0000",
+      "minecraft:enderman": "2025-01-03 02:11:03 +0000",
       "minecraft:magma_cube": "2024-12-26 05:09:07 +0000",
       "minecraft:spider": "2024-12-24 03:29:02 +0000",
       "minecraft:zombie": "2024-12-24 03:34:45 +0000",
@@ -2181,7 +2182,8 @@
     "criteria": {
       "minecraft:soul_sand_valley": "2024-12-25 07:23:57 +0000",
       "minecraft:nether_wastes": "2024-12-26 03:27:21 +0000",
-      "minecraft:basalt_deltas": "2024-12-26 03:27:37 +0000"
+      "minecraft:basalt_deltas": "2024-12-26 03:27:37 +0000",
+      "minecraft:warped_forest": "2025-01-03 02:08:21 +0000"
     },
     "done": false
   },
