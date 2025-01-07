@@ -151,3 +151,7 @@
 [07Jan2025 19:25:34.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/46, l='ServerLevel[world]', x=209.72, y=65.17, z=90.50] died, message: 'Toolsmith was slain by Zombie'
 [07Jan2025 19:31:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 30 [Chest] to kevin03x]
 [07Jan2025 19:31:11.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x fell from a high place
+[07Jan2025 19:41:39.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 5 [Block of Iron] to kevin03x]
+[07Jan2025 19:43:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 64 [Block of Emerald] to kevin03x]
+[07Jan2025 19:44:12.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 50 [Block of Iron] to kevin03x]
+[07Jan2025 19:45:39.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/636, l='ServerLevel[world]', x=212.56, y=42.00, z=43.24] died, message: 'Cleric hit the ground too hard while trying to escape kevin03x'
