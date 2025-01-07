@@ -644,3 +644,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 23:15:43.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=80, z=71} BlockPos{x=-167, y=79, z=70}
 [07Jan2025 23:15:43.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=80, z=71} BlockPos{x=-167, y=79, z=70}
 [07Jan2025 23:15:46.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=80, z=71} BlockPos{x=-167, y=81, z=69}
+[07Jan2025 23:18:29.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:18:29.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:23:29.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:23:29.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:27:08.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [A Terrible Fortress]
+[07Jan2025 23:27:16.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=81, z=307} BlockPos{x=-155, y=80, z=308}
