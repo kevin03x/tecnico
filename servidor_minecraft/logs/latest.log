@@ -164,3 +164,7 @@
 [07Jan2025 19:58:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Creative Mode]
 [07Jan2025 19:58:30.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Survival Mode]
 [07Jan2025 20:35:42.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 200 [Coal] to kevin03x]
+[07Jan2025 20:52:29.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x moved too quickly! 0.008347570121088665,-11.04845691489301,0.5611392826517658
+[07Jan2025 20:55:42.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[07Jan2025 20:55:42.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[07Jan2025 20:56:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
