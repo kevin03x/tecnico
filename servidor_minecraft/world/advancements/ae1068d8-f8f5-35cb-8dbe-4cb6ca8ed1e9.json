@@ -2670,5 +2670,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-07 22:55:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
