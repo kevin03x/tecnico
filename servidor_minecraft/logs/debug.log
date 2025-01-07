@@ -650,3 +650,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 23:23:29.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jan2025 23:27:08.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [A Terrible Fortress]
 [07Jan2025 23:27:16.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=81, z=307} BlockPos{x=-155, y=80, z=308}
+[07Jan2025 23:28:29.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:28:29.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:28:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Into Fire]
+[07Jan2025 23:33:29.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:33:29.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:36:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [A Terrible Fortress]
+[07Jan2025 23:37:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Into Fire]

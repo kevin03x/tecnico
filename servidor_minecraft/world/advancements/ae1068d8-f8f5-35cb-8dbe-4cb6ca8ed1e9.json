@@ -601,10 +601,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-24 03:55:01 +0000",
+      "minecraft:blaze": "2025-01-07 23:28:37 +0000",
       "minecraft:skeleton": "2024-12-24 03:29:21 +0000",
       "minecraft:witch": "2024-12-30 00:32:38 +0000",
+      "minecraft:wither_skeleton": "2025-01-07 23:30:01 +0000",
       "minecraft:bogged": "2024-12-29 22:52:07 +0000",
       "minecraft:ghast": "2024-12-30 05:01:39 +0000",
+      "minecraft:piglin": "2025-01-07 23:26:09 +0000",
       "minecraft:enderman": "2025-01-03 02:11:21 +0000",
       "minecraft:magma_cube": "2024-12-26 03:48:50 +0000",
       "minecraft:spider": "2024-12-24 05:15:34 +0000",
@@ -2719,6 +2722,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-07 23:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-07 23:19:39 +0000"
@@ -2743,6 +2752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-07 23:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-07 23:19:39 +0000"
@@ -2761,9 +2776,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-07 23:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-07 23:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-07 23:28:37 +0000"
     },
     "done": true
   },
