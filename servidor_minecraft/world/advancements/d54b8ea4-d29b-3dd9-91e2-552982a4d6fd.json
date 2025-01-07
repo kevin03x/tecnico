@@ -2925,5 +2925,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 19:15:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }

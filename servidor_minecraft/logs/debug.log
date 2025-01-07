@@ -591,3 +591,99 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 19:15:01.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/834, l='ServerLevel[world]', x=213.57, y=57.00, z=58.37] died, message: 'Villager was slain by kevin03x'
 [07Jan2025 19:15:13.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/842, l='ServerLevel[world]', x=214.32, y=57.92, z=59.35] died, message: 'Villager was slain by kevin03x'
 [07Jan2025 19:15:16.021] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[07Jan2025 19:19:14.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/882, l='ServerLevel[world]', x=213.51, y=57.00, z=70.46] died, message: 'Armorer was slain by kevin03x'
+[07Jan2025 19:19:46.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 19:19:46.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 19:20:09.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set kevin03x's game mode to Survival Mode
+[07Jan2025 19:24:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[07Jan2025 19:24:03.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[07Jan2025 19:24:03.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[07Jan2025 19:24:03.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[07Jan2025 19:24:03.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[07Jan2025 19:24:03.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[07Jan2025 19:24:03.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[07Jan2025 19:24:03.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[07Jan2025 19:24:03.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[07Jan2025 19:24:03.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[07Jan2025 19:24:03.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[07Jan2025 19:24:03.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[07Jan2025 19:24:03.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[07Jan2025 19:24:03.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[07Jan2025 19:24:03.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[07Jan2025 19:24:03.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[07Jan2025 19:24:03.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[07Jan2025 19:24:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[07Jan2025 19:24:03.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[07Jan2025 19:24:03.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[07Jan2025 19:24:03.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name> [<arguments>|with]
+[07Jan2025 19:24:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[07Jan2025 19:24:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[07Jan2025 19:24:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[07Jan2025 19:24:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[07Jan2025 19:24:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[07Jan2025 19:24:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[07Jan2025 19:24:03.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[07Jan2025 19:24:03.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[07Jan2025 19:24:03.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[07Jan2025 19:24:03.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[07Jan2025 19:24:03.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[07Jan2025 19:24:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[07Jan2025 19:24:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[07Jan2025 19:24:03.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[07Jan2025 19:24:03.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[07Jan2025 19:24:03.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[07Jan2025 19:24:03.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /random (value|roll|reset)
+[07Jan2025 19:24:03.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[07Jan2025 19:24:03.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[07Jan2025 19:24:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return (<value>|fail|run)
+[07Jan2025 19:24:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[07Jan2025 19:24:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rotate <target> (<rotation>|facing)
+[07Jan2025 19:24:03.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[07Jan2025 19:24:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[07Jan2025 19:24:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[07Jan2025 19:24:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[07Jan2025 19:24:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[07Jan2025 19:24:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[07Jan2025 19:24:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[07Jan2025 19:24:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[07Jan2025 19:24:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[07Jan2025 19:24:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[07Jan2025 19:24:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[07Jan2025 19:24:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[07Jan2025 19:24:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[07Jan2025 19:24:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[07Jan2025 19:24:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[07Jan2025 19:24:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[07Jan2025 19:24:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[07Jan2025 19:24:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[07Jan2025 19:24:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[07Jan2025 19:24:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[07Jan2025 19:24:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[07Jan2025 19:24:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[07Jan2025 19:24:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[07Jan2025 19:24:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[07Jan2025 19:24:03.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[07Jan2025 19:24:03.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[07Jan2025 19:24:03.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[07Jan2025 19:24:03.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[07Jan2025 19:24:03.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[07Jan2025 19:24:03.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[07Jan2025 19:24:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[07Jan2025 19:24:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[07Jan2025 19:24:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[07Jan2025 19:24:03.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[07Jan2025 19:24:03.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[07Jan2025 19:24:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[07Jan2025 19:24:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[07Jan2025 19:24:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[07Jan2025 19:24:03.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /transfer <hostname> [<port>]
+[07Jan2025 19:24:03.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[07Jan2025 19:24:03.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[07Jan2025 19:24:03.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[07Jan2025 19:24:20.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made kevin03x a server operator
+[07Jan2025 19:24:46.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 19:24:46.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 19:25:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 500 [Stick] to kevin03x]
+[07Jan2025 19:25:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [What a Deal!]
+[07Jan2025 19:25:27.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 5000 [Stick] to kevin03x]
+[07Jan2025 19:25:34.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/46, l='ServerLevel[world]', x=209.72, y=65.17, z=90.50] died, message: 'Toolsmith was slain by Zombie'
