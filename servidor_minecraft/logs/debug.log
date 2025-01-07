@@ -687,3 +687,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 19:25:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [What a Deal!]
 [07Jan2025 19:25:27.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 5000 [Stick] to kevin03x]
 [07Jan2025 19:25:34.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/46, l='ServerLevel[world]', x=209.72, y=65.17, z=90.50] died, message: 'Toolsmith was slain by Zombie'
+[07Jan2025 19:29:46.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 19:29:46.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 19:31:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 30 [Chest] to kevin03x]
+[07Jan2025 19:31:11.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x fell from a high place
+[07Jan2025 19:34:46.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 19:34:46.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
