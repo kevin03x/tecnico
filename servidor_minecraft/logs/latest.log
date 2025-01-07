@@ -163,3 +163,4 @@
 [07Jan2025 19:58:04.727] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7688, l='ServerLevel[world]', x=225.70, y=57.00, z=64.62] died, message: 'Villager was slain by kevin03x'
 [07Jan2025 19:58:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Creative Mode]
 [07Jan2025 19:58:30.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Survival Mode]
+[07Jan2025 20:35:42.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 200 [Coal] to kevin03x]
