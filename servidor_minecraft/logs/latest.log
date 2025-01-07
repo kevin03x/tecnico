@@ -66,3 +66,14 @@
 [07Jan2025 22:28:55.406] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/203, l='ServerLevel[world]', x=158.17, y=53.00, z=-51.41]
 [07Jan2025 22:29:21.322] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/392, l='ServerLevel[world]', x=157.54, y=31.50, z=80.55]
 [07Jan2025 22:29:23.435] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Strider['Strider'/411, l='ServerLevel[world]', x=180.52, y=31.50, z=-101.48]
+[07Jan2025 22:39:08.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ was slain by Zombie
+[07Jan2025 22:39:23.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.255.186.225:58673] logged in with entity id 2286 at (-204.5443104530451, 180.0, -965.2167626566647)
+[07Jan2025 22:39:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[07Jan2025 22:41:54.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3138, l='ServerLevel[world]', x=-467.50, y=65.00, z=-169.15] died, message: 'Villager was slain by Zombie'
+[07Jan2025 22:43:17.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin03x> D
+[07Jan2025 22:45:34.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=63, z=11}
+[07Jan2025 22:45:38.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[07Jan2025 22:45:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[07Jan2025 22:45:41.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:42609] logged in with entity id 5674 at (118.43871007588201, 64.0, 17.202239473663553)
+[07Jan2025 22:45:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
+[07Jan2025 22:55:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [What a Deal!]

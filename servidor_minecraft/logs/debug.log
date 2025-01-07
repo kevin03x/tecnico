@@ -600,3 +600,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 22:33:29.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jan2025 22:33:30.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jan2025 22:36:34.894] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[07Jan2025 22:38:29.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 22:38:29.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 22:39:08.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ was slain by Zombie
+[07Jan2025 22:39:20.655] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[07Jan2025 22:39:20.655] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[07Jan2025 22:39:20.655] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[07Jan2025 22:39:20.655] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[07Jan2025 22:39:20.656] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@581c4e28 into net.minecraft.network.Connection@5c23d1f3
+[07Jan2025 22:39:23.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.255.186.225:58673] logged in with entity id 2286 at (-204.5443104530451, 180.0, -965.2167626566647)
+[07Jan2025 22:39:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[07Jan2025 22:41:54.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3138, l='ServerLevel[world]', x=-467.50, y=65.00, z=-169.15] died, message: 'Villager was slain by Zombie'
+[07Jan2025 22:43:17.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin03x> D
+[07Jan2025 22:43:29.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 22:43:29.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 22:45:34.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=63, z=11}
+[07Jan2025 22:45:38.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[07Jan2025 22:45:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[07Jan2025 22:45:40.600] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[07Jan2025 22:45:40.600] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[07Jan2025 22:45:40.600] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[07Jan2025 22:45:40.600] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[07Jan2025 22:45:40.601] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@309f2943 into net.minecraft.network.Connection@5a47ecd6
+[07Jan2025 22:45:41.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:42609] logged in with entity id 5674 at (118.43871007588201, 64.0, 17.202239473663553)
+[07Jan2025 22:45:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
+[07Jan2025 22:48:29.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 22:48:29.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 22:53:29.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 22:53:29.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 22:55:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [What a Deal!]
