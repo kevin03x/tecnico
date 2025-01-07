@@ -77,3 +77,10 @@
 [07Jan2025 22:45:41.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:42609] logged in with entity id 5674 at (118.43871007588201, 64.0, 17.202239473663553)
 [07Jan2025 22:45:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
 [07Jan2025 22:55:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [What a Deal!]
+[07Jan2025 23:11:49.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=41} BlockPos{x=-7, y=63, z=41}
+[07Jan2025 23:11:49.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=41} BlockPos{x=-7, y=63, z=41}
+[07Jan2025 23:11:49.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=41} BlockPos{x=-7, y=63, z=41}
+[07Jan2025 23:11:50.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=63, z=41} BlockPos{x=-8, y=63, z=41}
+[07Jan2025 23:15:43.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=80, z=71} BlockPos{x=-167, y=79, z=70}
+[07Jan2025 23:15:43.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=80, z=71} BlockPos{x=-167, y=79, z=70}
+[07Jan2025 23:15:46.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=80, z=71} BlockPos{x=-167, y=81, z=69}

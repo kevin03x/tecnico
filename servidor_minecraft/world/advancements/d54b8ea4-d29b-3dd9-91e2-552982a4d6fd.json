@@ -2957,5 +2957,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-07 23:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-07 23:13:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
