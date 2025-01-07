@@ -657,3 +657,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jan2025 23:33:29.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jan2025 23:36:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [A Terrible Fortress]
 [07Jan2025 23:37:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Into Fire]
+[07Jan2025 23:38:29.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:38:29.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:43:29.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:43:29.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:44:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Spooky Scary Skeleton]
+[07Jan2025 23:46:50.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=67, z=354} BlockPos{x=-175, y=74, z=323}
+[07Jan2025 23:48:00.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=72, z=313} BlockPos{x=-171, y=100, z=302}
+[07Jan2025 23:48:13.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=72, z=313} BlockPos{x=-171, y=102, z=300}

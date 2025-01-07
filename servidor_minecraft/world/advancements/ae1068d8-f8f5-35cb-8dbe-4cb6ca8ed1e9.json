@@ -603,6 +603,7 @@
       "minecraft:pillager": "2024-12-24 03:55:01 +0000",
       "minecraft:blaze": "2025-01-07 23:28:37 +0000",
       "minecraft:skeleton": "2024-12-24 03:29:21 +0000",
+      "minecraft:zombified_piglin": "2025-01-07 23:42:33 +0000",
       "minecraft:witch": "2024-12-30 00:32:38 +0000",
       "minecraft:wither_skeleton": "2025-01-07 23:30:01 +0000",
       "minecraft:bogged": "2024-12-29 22:52:07 +0000",
@@ -2734,6 +2735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-07 23:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-07 23:19:39 +0000"
@@ -2764,9 +2771,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-07 23:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-07 23:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-07 23:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-07 23:37:22 +0000"
     },
     "done": true
   },
