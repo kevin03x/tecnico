@@ -34,3 +34,4 @@
 [08Jan2025 01:47:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Hidden in the Depths]
 [08Jan2025 01:51:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ tried to swim in lava to escape Ghast
 [08Jan2025 01:53:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ burned to death
+[08Jan2025 02:09:22.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/47267, l='ServerLevel[world]', x=213.52, y=57.00, z=79.52] died, message: 'Toolsmith was slain by Zombie'
