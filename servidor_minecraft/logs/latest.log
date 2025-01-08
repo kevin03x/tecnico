@@ -41,3 +41,8 @@
 [08Jan2025 02:24:52.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=55, z=-55} BlockPos{x=157, y=54, z=-55}
 [08Jan2025 02:25:17.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=53, z=-56} BlockPos{x=160, y=54, z=-54}
 [08Jan2025 02:48:14.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=57, z=69} BlockPos{x=119, y=65, z=15}
+[08Jan2025 03:33:27.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[08Jan2025 03:33:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[08Jan2025 03:33:30.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[08Jan2025 03:33:30.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[08Jan2025 03:34:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
