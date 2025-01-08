@@ -35,3 +35,8 @@
 [08Jan2025 01:51:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ tried to swim in lava to escape Ghast
 [08Jan2025 01:53:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ burned to death
 [08Jan2025 02:09:22.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/47267, l='ServerLevel[world]', x=213.52, y=57.00, z=79.52] died, message: 'Toolsmith was slain by Zombie'
+[08Jan2025 02:24:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was slain by Zombie
+[08Jan2025 02:24:15.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=55, z=-55} BlockPos{x=157, y=54, z=-54}
+[08Jan2025 02:24:15.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=55, z=-55} BlockPos{x=157, y=54, z=-54}
+[08Jan2025 02:24:52.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=55, z=-55} BlockPos{x=157, y=54, z=-55}
+[08Jan2025 02:25:17.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=53, z=-56} BlockPos{x=160, y=54, z=-54}
