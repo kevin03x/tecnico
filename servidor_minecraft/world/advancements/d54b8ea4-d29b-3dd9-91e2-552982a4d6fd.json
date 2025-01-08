@@ -696,6 +696,7 @@
       "minecraft:zombified_piglin": "2025-01-07 23:42:27 +0000",
       "minecraft:wither_skeleton": "2025-01-07 23:36:27 +0000",
       "minecraft:ghast": "2024-12-26 04:25:45 +0000",
+      "minecraft:ender_dragon": "2025-01-08 00:42:09 +0000",
       "minecraft:piglin": "2024-12-26 04:34:35 +0000",
       "minecraft:stray": "2024-12-24 08:33:39 +0000",
       "minecraft:enderman": "2025-01-03 02:11:03 +0000",
@@ -3135,9 +3136,33 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-08 00:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-08 00:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-08 00:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-08 00:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-08 00:44:00 +0000"
     },
     "done": true
   },
