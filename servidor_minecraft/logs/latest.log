@@ -20,3 +20,9 @@
 [08Jan2025 00:48:27.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [The City at the End of the Game]
 [08Jan2025 01:02:39.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Local Brewery]
 [08Jan2025 01:02:54.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has reached the goal [Sky's the Limit]
+[08Jan2025 01:09:20.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x was kicked for floating too long!
+[08Jan2025 01:09:20.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Flying is not enabled on this server
+[08Jan2025 01:09:20.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[08Jan2025 01:09:20.672] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 01:13:08.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.255.186.225:48195] logged in with entity id 32588 at (-385.1621598026505, 59.7967356006687, -1109.5805171134368)
+[08Jan2025 01:13:08.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
