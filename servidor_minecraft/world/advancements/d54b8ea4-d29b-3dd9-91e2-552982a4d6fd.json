@@ -697,6 +697,7 @@
       "minecraft:wither_skeleton": "2025-01-07 23:36:27 +0000",
       "minecraft:ghast": "2024-12-26 04:25:45 +0000",
       "minecraft:ender_dragon": "2025-01-08 00:42:09 +0000",
+      "minecraft:shulker": "2025-01-08 00:48:33 +0000",
       "minecraft:piglin": "2024-12-26 04:34:35 +0000",
       "minecraft:stray": "2024-12-24 08:33:39 +0000",
       "minecraft:enderman": "2025-01-03 02:11:03 +0000",
@@ -3193,6 +3194,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-08 00:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-08 00:48:33 +0000"
     },
     "done": true
   },
