@@ -26,3 +26,5 @@
 [08Jan2025 01:09:20.672] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Jan2025 01:13:08.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.255.186.225:48195] logged in with entity id 32588 at (-385.1621598026505, 59.7967356006687, -1109.5805171134368)
 [08Jan2025 01:13:08.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[08Jan2025 01:26:44.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has reached the goal [Sky's the Limit]
+[08Jan2025 01:27:49.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Local Brewery]

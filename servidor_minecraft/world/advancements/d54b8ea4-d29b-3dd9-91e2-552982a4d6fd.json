@@ -3245,5 +3245,17 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-08 01:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-08 01:26:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
