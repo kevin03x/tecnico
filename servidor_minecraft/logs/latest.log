@@ -1,48 +1,63 @@
-[08Jan2025 00:06:54.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of RAKNAROZ) moved too quickly! -8.58671427982108,0.0,-5.5816338399163214
-[08Jan2025 00:06:54.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of RAKNAROZ) moved too quickly! -8.949641978885097,0.0,-5.744277489707201
-[08Jan2025 00:06:54.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of RAKNAROZ) moved too quickly! -9.31367064069957,0.0,-5.904859167957966
-[08Jan2025 00:14:24.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Eye Spy]
-[08Jan2025 00:14:30.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Eye Spy]
-[08Jan2025 00:28:14.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
-[08Jan2025 00:28:14.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
-[08Jan2025 00:28:22.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.255.186.225:58665] logged in with entity id 27348 at (-1025.5839032507379, 5.0, 1209.84473758912)
-[08Jan2025 00:28:22.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
-[08Jan2025 00:35:49.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [The End?]
-[08Jan2025 00:35:51.736] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
-[08Jan2025 00:35:51.736] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
-[08Jan2025 00:35:52.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3387ms or 67 ticks behind
-[08Jan2025 00:35:52.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [The End?]
-[08Jan2025 00:42:09.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Free the End]
-[08Jan2025 00:42:37.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has reached the goal [The Next Generation]
-[08Jan2025 00:44:00.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Remote Getaway]
-[08Jan2025 00:44:03.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Remote Getaway]
-[08Jan2025 00:48:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [The City at the End of the Game]
-[08Jan2025 00:48:27.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [The City at the End of the Game]
-[08Jan2025 01:02:39.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Local Brewery]
-[08Jan2025 01:02:54.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has reached the goal [Sky's the Limit]
-[08Jan2025 01:09:20.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x was kicked for floating too long!
-[08Jan2025 01:09:20.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Flying is not enabled on this server
-[08Jan2025 01:09:20.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
-[08Jan2025 01:09:20.672] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Jan2025 01:13:08.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.255.186.225:48195] logged in with entity id 32588 at (-385.1621598026505, 59.7967356006687, -1109.5805171134368)
-[08Jan2025 01:13:08.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
-[08Jan2025 01:26:44.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has reached the goal [Sky's the Limit]
-[08Jan2025 01:27:49.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Local Brewery]
-[08Jan2025 01:39:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was doomed to fall by Zombie
-[08Jan2025 01:40:33.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Teleported kevin03x to RAKNAROZ]
-[08Jan2025 01:47:21.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Hidden in the Depths]
-[08Jan2025 01:47:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Hidden in the Depths]
-[08Jan2025 01:51:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ tried to swim in lava to escape Ghast
-[08Jan2025 01:53:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ burned to death
-[08Jan2025 02:09:22.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/47267, l='ServerLevel[world]', x=213.52, y=57.00, z=79.52] died, message: 'Toolsmith was slain by Zombie'
-[08Jan2025 02:24:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was slain by Zombie
-[08Jan2025 02:24:15.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=55, z=-55} BlockPos{x=157, y=54, z=-54}
-[08Jan2025 02:24:15.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=55, z=-55} BlockPos{x=157, y=54, z=-54}
-[08Jan2025 02:24:52.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=55, z=-55} BlockPos{x=157, y=54, z=-55}
-[08Jan2025 02:25:17.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=53, z=-56} BlockPos{x=160, y=54, z=-54}
-[08Jan2025 02:48:14.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=57, z=69} BlockPos{x=119, y=65, z=15}
-[08Jan2025 03:33:27.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
-[08Jan2025 03:33:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
-[08Jan2025 03:33:30.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
-[08Jan2025 03:33:30.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
-[08Jan2025 03:34:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[11Jan2025 01:30:19.813] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[11Jan2025 01:30:19.823] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[11Jan2025 01:30:19.827] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[11Jan2025 01:30:20.131] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[11Jan2025 01:30:20.435] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/tecnico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[11Jan2025 01:30:21.250] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[11Jan2025 01:30:23.494] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[11Jan2025 01:30:24.997] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[11Jan2025 01:30:25.579] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[11Jan2025 01:30:41.111] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[11Jan2025 01:30:41.114] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[11Jan2025 01:30:41.325] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[11Jan2025 01:30:43.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jan2025 01:30:45.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.37
+[11Jan2025 01:30:47.428] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11Jan2025 01:30:55.706] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[11Jan2025 01:30:55.757] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
+[11Jan2025 01:30:56.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[11Jan2025 01:30:56.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jan2025 01:30:56.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jan2025 01:30:56.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jan2025 01:30:57.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jan2025 01:30:57.305] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jan2025 01:30:57.554] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jan2025 01:30:57.557] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jan2025 01:30:57.558] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jan2025 01:30:57.564] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jan2025 01:30:57.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jan2025 01:30:58.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jan2025 01:31:10.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.023] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.024] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.024] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.038] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.038] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.041] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.044] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.044] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 01:31:10.680] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11907 ms
+[11Jan2025 01:31:10.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.046s)! For help, type "help"
+[11Jan2025 01:31:10.719] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jan2025 01:32:10.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[11Jan2025 01:32:22.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:38143] logged in with entity id 7 at (-571.2644130721246, 63.0, -56.51239819174745)
+[11Jan2025 01:32:22.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
+[11Jan2025 01:32:24.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[11Jan2025 01:45:23.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ fell from a high place
+[11Jan2025 01:45:52.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Creative Mode
+[11Jan2025 01:46:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported RAKNAROZ to -824.500000, 146.000000, 81.500000
