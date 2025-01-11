@@ -94,3 +94,4 @@
 [11Jan2025 19:23:14.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was doomed to fall by Magma Cube
 [11Jan2025 19:28:54.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
 [11Jan2025 19:28:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[11Jan2025 19:40:13.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46728, l='ServerLevel[world]', x=156.70, y=54.00, z=-50.70] died, message: 'Villager was squished too much'
