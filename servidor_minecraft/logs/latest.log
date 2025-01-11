@@ -97,3 +97,5 @@
 [11Jan2025 19:40:13.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46728, l='ServerLevel[world]', x=156.70, y=54.00, z=-50.70] died, message: 'Villager was squished too much'
 [11Jan2025 19:54:53.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=63, z=29} BlockPos{x=192, y=61, z=29}
 [11Jan2025 19:58:04.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52250, l='ServerLevel[world]', x=155.80, y=52.00, z=-49.36] died, message: 'Villager suffocated in a wall'
+[11Jan2025 20:05:18.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ fell from a high place
+[11Jan2025 20:05:51.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54961, l='ServerLevel[world]', x=155.45, y=52.00, z=-49.62] died, message: 'Villager suffocated in a wall'
