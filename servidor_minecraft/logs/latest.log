@@ -64,3 +64,9 @@
 [11Jan2025 17:38:17.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.146.200.207:40905] logged in with entity id 3598 at (193.4118391325672, 62.0, 35.40864734280291)
 [11Jan2025 17:38:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [11Jan2025 18:10:53.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x moved wrongly!
+[11Jan2025 18:29:25.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jan2025 18:29:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode<--[HERE]
+[11Jan2025 18:29:41.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: espectator
+[11Jan2025 18:29:41.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...espectator raknaroz<--[HERE]
+[11Jan2025 18:30:00.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Spectator Mode
+[11Jan2025 18:31:04.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
