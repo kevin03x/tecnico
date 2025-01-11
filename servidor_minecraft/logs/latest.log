@@ -70,3 +70,21 @@
 [11Jan2025 18:29:41.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...espectator raknaroz<--[HERE]
 [11Jan2025 18:30:00.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Spectator Mode
 [11Jan2025 18:31:04.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
+[11Jan2025 18:39:43.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:39:43.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=82, z=84} BlockPos{x=286, y=82, z=85}
+[11Jan2025 18:41:23.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: creativeraknaroz
+[11Jan2025 18:41:23.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...veraknaroz<--[HERE]
+[11Jan2025 18:41:36.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Creative Mode
+[11Jan2025 18:41:45.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[11Jan2025 18:41:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Teleported kevin03x to RAKNAROZ]
+[11Jan2025 18:42:02.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Creative Mode]
+[11Jan2025 18:46:46.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Spectator Mode]
+[11Jan2025 18:47:10.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Survival Mode]
+[11Jan2025 18:48:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
