@@ -679,3 +679,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jan2025 19:14:10.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jan2025 19:19:10.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 19:19:10.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 19:21:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x fell from a high place
+[11Jan2025 19:23:14.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was doomed to fall by Magma Cube
+[11Jan2025 19:24:10.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 19:24:10.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 19:28:54.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[11Jan2025 19:28:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[11Jan2025 19:29:10.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 19:29:10.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

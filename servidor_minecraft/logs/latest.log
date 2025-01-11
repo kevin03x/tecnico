@@ -90,3 +90,7 @@
 [11Jan2025 18:48:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
 [11Jan2025 18:50:24.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Teleported kevin03x to RAKNAROZ]
 [11Jan2025 19:07:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ fell from a high place
+[11Jan2025 19:21:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x fell from a high place
+[11Jan2025 19:23:14.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x was doomed to fall by Magma Cube
+[11Jan2025 19:28:54.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[11Jan2025 19:28:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
