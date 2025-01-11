@@ -99,3 +99,6 @@
 [11Jan2025 19:58:04.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52250, l='ServerLevel[world]', x=155.80, y=52.00, z=-49.36] died, message: 'Villager suffocated in a wall'
 [11Jan2025 20:05:18.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ fell from a high place
 [11Jan2025 20:05:51.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54961, l='ServerLevel[world]', x=155.45, y=52.00, z=-49.62] died, message: 'Villager suffocated in a wall'
+[11Jan2025 21:09:04.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[11Jan2025 21:09:04.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[11Jan2025 21:10:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
