@@ -65,3 +65,8 @@
 [11Jan2025 03:15:38.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.8.185.36:59137] logged in with entity id 13985 at (-568.9620897590383, 63.0, -56.75743138134949)
 [11Jan2025 03:15:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [11Jan2025 03:20:10.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> 184 62 30
+[11Jan2025 03:39:52.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[11Jan2025 03:39:52.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[11Jan2025 03:40:13.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[11Jan2025 03:40:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[11Jan2025 03:41:13.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
