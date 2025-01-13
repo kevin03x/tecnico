@@ -53,3 +53,5 @@
 [13Jan2025 02:24:06.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:52027] logged in with entity id 20 at (217.69999998807907, -22.0, -22.69999998807907)
 [13Jan2025 02:24:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
 [13Jan2025 02:24:08.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[13Jan2025 02:46:36.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=214, y=-19, z=-26} BlockPos{x=214, y=-25, z=-25}
+[13Jan2025 02:47:15.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/565, l='ServerLevel[world]', x=155.86, y=52.00, z=-49.30] died, message: 'Villager suffocated in a wall'
