@@ -597,3 +597,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Jan2025 02:47:15.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/565, l='ServerLevel[world]', x=155.86, y=52.00, z=-49.30] died, message: 'Villager suffocated in a wall'
 [13Jan2025 02:48:56.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 02:48:56.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:53:56.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:53:56.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:54:39.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1779, l='ServerLevel[world]', x=155.45, y=52.00, z=-49.49] died, message: 'Villager suffocated in a wall'
+[13Jan2025 02:58:56.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:58:56.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
