@@ -61,3 +61,5 @@
 [14Jan2025 22:03:38.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Endermite['PACO'/1762, l='ServerLevel[world]', x=31.08, y=87.00, z=-230.58] died: PACO was slain by kevin03x
 [14Jan2025 22:08:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Survival Mode]
 [14Jan2025 22:10:34.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=70, z=43} BlockPos{x=132, y=68, z=43}
+[14Jan2025 22:18:18.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 1 [Grindstone] to kevin03x]
+[14Jan2025 22:22:44.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 200 [Lapis Lazuli] to kevin03x]
