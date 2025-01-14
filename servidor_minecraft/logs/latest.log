@@ -57,3 +57,7 @@
 [14Jan2025 21:37:55.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [14Jan2025 21:38:45.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Gave 200 experience levels to kevin03x]
 [14Jan2025 21:39:24.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Creative Mode]
+[14Jan2025 22:02:36.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Endermite['PACO'/1758, l='ServerLevel[world]', x=32.38, y=84.06, z=-231.53] died: PACO was slain by kevin03x
+[14Jan2025 22:03:38.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Endermite['PACO'/1762, l='ServerLevel[world]', x=31.08, y=87.00, z=-230.58] died: PACO was slain by kevin03x
+[14Jan2025 22:08:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin03x: Set own game mode to Survival Mode]
+[14Jan2025 22:10:34.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=70, z=43} BlockPos{x=132, y=68, z=43}
