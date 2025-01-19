@@ -71,3 +71,4 @@
 [19Jan2025 21:48:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
 [19Jan2025 21:52:59.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20946, l='ServerLevel[world]', x=155.80, y=52.00, z=-49.30] died, message: 'Villager suffocated in a wall'
 [19Jan2025 22:00:29.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22860, l='ServerLevel[world]', x=155.88, y=52.00, z=-49.56] died, message: 'Villager suffocated in a wall'
+[19Jan2025 22:13:07.100] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25279, l='ServerLevel[world]', x=155.65, y=52.00, z=-49.30] died, message: 'Villager suffocated in a wall'
