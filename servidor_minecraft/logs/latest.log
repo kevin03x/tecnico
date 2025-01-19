@@ -67,3 +67,6 @@
 [19Jan2025 21:14:24.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.116.230.102:50175] logged in with entity id 16352 at (185.69999998807907, 63.0, 39.5)
 [19Jan2025 21:14:24.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
 [19Jan2025 21:40:29.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17741, l='ServerLevel[world]', x=155.37, y=52.00, z=-49.61] died, message: 'Villager suffocated in a wall'
+[19Jan2025 21:48:58.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
+[19Jan2025 21:48:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[19Jan2025 21:52:59.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20946, l='ServerLevel[world]', x=155.80, y=52.00, z=-49.30] died, message: 'Villager suffocated in a wall'
