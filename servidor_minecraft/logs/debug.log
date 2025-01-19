@@ -616,3 +616,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Jan2025 21:01:06.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9507, l='ServerLevel[world]', x=157.40, y=53.00, z=-55.08] died, message: 'Villager suffocated in a wall'
 [19Jan2025 21:01:44.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 21:01:44.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 21:06:44.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 21:06:44.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 21:11:44.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 21:11:44.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 21:14:22.443] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Jan2025 21:14:22.444] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Jan2025 21:14:22.444] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Jan2025 21:14:22.444] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Jan2025 21:14:22.444] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@54e04c0b into net.minecraft.network.Connection@2e982426
+[19Jan2025 21:14:22.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: You logged in from another location
+[19Jan2025 21:14:22.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
+[19Jan2025 21:14:22.511] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 21:14:24.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.116.230.102:50175] logged in with entity id 16352 at (185.69999998807907, 63.0, 39.5)
+[19Jan2025 21:14:24.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
