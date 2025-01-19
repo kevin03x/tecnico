@@ -57,3 +57,4 @@
 [19Jan2025 20:16:44.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
 [19Jan2025 20:16:45.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
 [19Jan2025 20:17:04.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
+[19Jan2025 20:28:00.897] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/116, l='ServerLevel[world]', x=155.44, y=52.00, z=-49.44] died, message: 'Villager suffocated in a wall'
