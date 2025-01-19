@@ -74,3 +74,7 @@
 [19Jan2025 22:13:07.100] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25279, l='ServerLevel[world]', x=155.65, y=52.00, z=-49.30] died, message: 'Villager suffocated in a wall'
 [19Jan2025 22:20:31.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26470, l='ServerLevel[world]', x=155.46, y=52.00, z=-49.56] died, message: 'Villager suffocated in a wall'
 [19Jan2025 22:33:01.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27664, l='ServerLevel[world]', x=155.81, y=52.00, z=-49.30] died, message: 'Villager suffocated in a wall'
+[19Jan2025 22:40:32.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28449, l='ServerLevel[world]', x=155.48, y=52.00, z=-49.48] died, message: 'Villager suffocated in a wall'
+[19Jan2025 22:46:09.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[19Jan2025 22:46:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[19Jan2025 22:47:09.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
