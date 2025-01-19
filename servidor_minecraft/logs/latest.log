@@ -58,3 +58,6 @@
 [19Jan2025 20:16:45.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
 [19Jan2025 20:17:04.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
 [19Jan2025 20:28:00.897] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/116, l='ServerLevel[world]', x=155.44, y=52.00, z=-49.44] died, message: 'Villager suffocated in a wall'
+[19Jan2025 20:57:45.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin03x[/127.116.230.102:34239] logged in with entity id 10682 at (217.5987994961943, 57.0, 78.77076917479641)
+[19Jan2025 20:57:45.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x joined the game
+[19Jan2025 21:01:06.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9507, l='ServerLevel[world]', x=157.40, y=53.00, z=-55.08] died, message: 'Villager suffocated in a wall'
