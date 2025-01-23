@@ -57,3 +57,13 @@
 [23Jan2025 02:22:39.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
 [23Jan2025 02:22:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
 [23Jan2025 02:23:39.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[23Jan2025 02:32:07.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jan2025 02:32:07.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jan2025 02:32:07.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jan2025 02:32:07.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jan2025 02:32:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jan2025 02:32:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jan2025 02:32:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jan2025 02:32:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jan2025 02:32:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jan2025 02:32:07.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
