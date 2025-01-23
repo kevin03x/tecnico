@@ -53,3 +53,7 @@
 [23Jan2025 02:09:34.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:42871] logged in with entity id 19 at (225.41528894418408, -31.0, -25.479357969270673)
 [23Jan2025 02:09:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
 [23Jan2025 02:09:36.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[23Jan2025 02:16:32.327] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/160, l='ServerLevel[world]', x=155.43, y=52.00, z=-49.43] died, message: 'Villager suffocated in a wall'
+[23Jan2025 02:22:39.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[23Jan2025 02:22:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[23Jan2025 02:23:39.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
