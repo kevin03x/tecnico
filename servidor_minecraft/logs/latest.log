@@ -68,3 +68,8 @@
 [24Jan2025 01:45:20.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=149, y=69, z=30} BlockPos{x=120, y=64, z=15}
 [24Jan2025 01:45:29.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=149, y=69, z=30} BlockPos{x=119, y=65, z=15}
 [24Jan2025 01:46:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Creative Mode
+[24Jan2025 01:51:24.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/7981, l='ServerLevel[world]', x=195.30, y=67.00, z=58.30] died, message: 'Cleric was slain by Zombie'
+[24Jan2025 01:52:08.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
+[24Jan2025 01:57:58.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9504, l='ServerLevel[world]', x=155.47, y=52.00, z=-49.42] died, message: 'Villager suffocated in a wall'
+[24Jan2025 01:58:58.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11625, l='ServerLevel[world]', x=162.26, y=52.00, z=-46.75] died, message: 'Villager was slain by RAKNAROZ'
+[24Jan2025 01:59:45.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=162, y=52, z=-47} BlockPos{x=155, y=70, z=30}
