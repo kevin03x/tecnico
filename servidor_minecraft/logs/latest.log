@@ -83,3 +83,5 @@
 [24Jan2025 02:38:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Creative Mode
 [24Jan2025 02:47:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
 [24Jan2025 02:50:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has completed the challenge [Hero of the Village]
+[24Jan2025 02:56:48.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25619, l='ServerLevel[world]', x=155.50, y=52.00, z=-49.43] died, message: 'Villager suffocated in a wall'
+[24Jan2025 02:57:46.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Enchanter]
