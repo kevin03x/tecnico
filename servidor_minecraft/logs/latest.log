@@ -80,3 +80,6 @@
 [24Jan2025 02:08:45.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=62, z=17} BlockPos{x=97, y=62, z=16}
 [24Jan2025 02:08:49.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=62, z=17} BlockPos{x=97, y=62, z=16}
 [24Jan2025 02:09:19.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=62, z=17} BlockPos{x=97, y=62, z=16}
+[24Jan2025 02:38:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Creative Mode
+[24Jan2025 02:47:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
+[24Jan2025 02:50:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has completed the challenge [Hero of the Village]
