@@ -73,3 +73,10 @@
 [24Jan2025 01:57:58.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9504, l='ServerLevel[world]', x=155.47, y=52.00, z=-49.42] died, message: 'Villager suffocated in a wall'
 [24Jan2025 01:58:58.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11625, l='ServerLevel[world]', x=162.26, y=52.00, z=-46.75] died, message: 'Villager was slain by RAKNAROZ'
 [24Jan2025 01:59:45.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=162, y=52, z=-47} BlockPos{x=155, y=70, z=30}
+[24Jan2025 02:06:09.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7979, l='ServerLevel[world]', x=158.54, y=53.00, z=-47.50] died, message: 'Villager was slain by RAKNAROZ'
+[24Jan2025 02:06:10.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7975, l='ServerLevel[world]', x=158.70, y=53.00, z=-47.74] died, message: 'Villager was slain by RAKNAROZ'
+[24Jan2025 02:06:11.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7972, l='ServerLevel[world]', x=158.54, y=53.00, z=-51.17] died, message: 'Villager was slain by RAKNAROZ'
+[24Jan2025 02:06:11.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3346, l='ServerLevel[world]', x=158.70, y=53.00, z=-50.39] died, message: 'Villager was slain by RAKNAROZ'
+[24Jan2025 02:08:45.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=62, z=17} BlockPos{x=97, y=62, z=16}
+[24Jan2025 02:08:49.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=62, z=17} BlockPos{x=97, y=62, z=16}
+[24Jan2025 02:09:19.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=62, z=17} BlockPos{x=97, y=62, z=16}
