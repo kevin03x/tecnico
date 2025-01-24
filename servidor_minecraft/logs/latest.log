@@ -105,3 +105,6 @@
 [24Jan2025 03:14:04.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29317, l='ServerLevel[world]', x=192.50, y=62.00, z=28.79] died, message: 'Villager was slain by RAKNAROZ'
 [24Jan2025 03:16:40.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7969, l='ServerLevel[world]', x=225.70, y=57.00, z=49.68] died, message: 'Villager was slain by RAKNAROZ'
 [24Jan2025 03:22:58.777] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 04:19:25.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ lost connection: Disconnected
+[24Jan2025 04:19:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ left the game
+[24Jan2025 04:20:25.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
