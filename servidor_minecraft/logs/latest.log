@@ -85,3 +85,7 @@
 [24Jan2025 02:50:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has completed the challenge [Hero of the Village]
 [24Jan2025 02:56:48.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25619, l='ServerLevel[world]', x=155.50, y=52.00, z=-49.43] died, message: 'Villager suffocated in a wall'
 [24Jan2025 02:57:46.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ has made the advancement [Enchanter]
+[24Jan2025 03:03:20.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=57, z=53} BlockPos{x=223, y=57, z=55}
+[24Jan2025 03:06:02.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25677, l='ServerLevel[world]', x=156.50, y=53.06, z=-52.72] died, message: 'Villager was slain by RAKNAROZ'
+[24Jan2025 03:06:03.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4871, l='ServerLevel[world]', x=158.05, y=53.00, z=-51.70] died, message: 'Villager was slain by RAKNAROZ'
+[24Jan2025 03:06:51.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=61, z=42} BlockPos{x=179, y=62, z=42}
