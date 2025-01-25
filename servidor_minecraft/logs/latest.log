@@ -1,60 +1,40 @@
-[25Jan2025 16:44:26.549] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[25Jan2025 16:44:26.553] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
-[25Jan2025 16:44:26.555] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[25Jan2025 16:44:26.716] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[25Jan2025 16:44:27.024] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/tecnico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[25Jan2025 16:44:27.730] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[25Jan2025 16:44:29.588] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[25Jan2025 16:44:31.387] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[25Jan2025 16:44:32.174] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[25Jan2025 16:44:46.086] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[25Jan2025 16:44:46.093] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[25Jan2025 16:44:46.125] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[25Jan2025 16:44:47.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[25Jan2025 16:44:48.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.37
-[25Jan2025 16:44:51.220] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[25Jan2025 16:44:57.246] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
-[25Jan2025 16:44:57.293] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
-[25Jan2025 16:44:57.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[25Jan2025 16:44:57.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[25Jan2025 16:44:57.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[25Jan2025 16:44:57.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[25Jan2025 16:44:58.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[25Jan2025 16:44:58.545] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[25Jan2025 16:44:58.756] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[25Jan2025 16:44:58.756] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[25Jan2025 16:44:58.757] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[25Jan2025 16:44:58.757] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[25Jan2025 16:44:58.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[25Jan2025 16:44:59.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[25Jan2025 16:45:07.087] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.187.107:40143] Disconnecting VANILLA connection attempt: Server is still starting! Please wait before reconnecting.
-[25Jan2025 16:45:07.931] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.187.107:41503] Disconnecting VANILLA connection attempt: Server is still starting! Please wait before reconnecting.
-[25Jan2025 16:45:08.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.787] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.800] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:08.862] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Jan2025 16:45:09.527] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9666 ms
-[25Jan2025 16:45:09.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.716s)! For help, type "help"
-[25Jan2025 16:45:09.636] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[25Jan2025 16:45:40.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RAKNAROZ[/127.32.187.107:55285] logged in with entity id 39 at (187.60803588756517, 62.0, 28.922438615160388)
-[25Jan2025 16:45:40.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ joined the game
-[25Jan2025 16:45:42.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[25Jan2025 16:55:30.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> -240 -808
-[25Jan2025 17:04:08.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> 456 321
-[25Jan2025 17:05:42.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ moved wrongly!
-[25Jan2025 18:02:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> -875 612
+[25Jan2025 18:35:30.761] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[25Jan2025 18:35:30.765] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04
+[25Jan2025 18:35:30.766] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[25Jan2025 18:35:30.879] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[25Jan2025 18:35:31.029] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/tecnico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[25Jan2025 18:35:31.545] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[25Jan2025 18:35:32.870] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[25Jan2025 18:35:33.607] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[25Jan2025 18:35:33.938] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/tecnico/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[25Jan2025 18:35:43.546] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[25Jan2025 18:35:43.547] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[25Jan2025 18:35:43.657] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[25Jan2025 18:35:44.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Jan2025 18:35:45.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 53.0.25 Target: 53.0.39
+[25Jan2025 18:35:46.879] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[25Jan2025 18:35:46.948] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /workspaces/tecnico/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:95) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.util.DirectoryLock.create(DirectoryLock.java:41) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:417) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.world.level.storage.LevelStorageSource.validateAndCreateAccess(LevelStorageSource.java:350) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at TRANSFORMER/minecraft@1.21.3/net.minecraft.server.Main.main(Main.java:151) ~[forge-1.21.3-53.0.25-server.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.3-53.0.25/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:85) ~[fmlloader-1.21.3-53.0.25.jar!/:?]
+	at SECURE-BOOTSTRAP/net.minecraftforge.fmlloader@1.21.3-53.0.25/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:69) ~[fmlloader-1.21.3-53.0.25.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:77) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:97) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.Launcher.run(Launcher.java:116) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.Launcher.main(Launcher.java:75) [modlauncher-10.2.2.jar!/:?]
+	at SECURE-BOOTSTRAP/cpw.mods.modlauncher@10.2.2/cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) [modlauncher-10.2.2.jar!/:?]
+	at net.minecraftforge.bootstrap@2.1.3/net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:188) [bootstrap-2.1.3.jar!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133) [bootstrap-2.1.3.jar:2.1.3]
+	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53) [bootstrap-2.1.3.jar:2.1.3]
+	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19) [bootstrap-2.1.3.jar:2.1.3]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.bootstrap.shim.Main.main(Main.java:97) [forge-1.21.3-53.0.25-shim.jar:2.1.3]
