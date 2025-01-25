@@ -78,3 +78,18 @@
 [25Jan2025 03:27:58.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin03x lost connection: Disconnected
 [25Jan2025 03:27:58.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x left the game
 [25Jan2025 03:28:58.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[25Jan2025 03:39:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Jan2025 03:39:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[25Jan2025 03:39:51.207] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.32.187.107:33257 lost connection: Disconnected
+[25Jan2025 03:39:57.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Jan2025 03:39:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[25Jan2025 03:39:59.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jan2025 03:39:59.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jan2025 03:39:59.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jan2025 03:39:59.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jan2025 03:39:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jan2025 03:39:59.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jan2025 03:39:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jan2025 03:39:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jan2025 03:39:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jan2025 03:39:59.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
