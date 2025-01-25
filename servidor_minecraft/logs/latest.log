@@ -54,3 +54,4 @@
 [25Jan2025 01:38:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Creative Mode
 [25Jan2025 01:43:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set RAKNAROZ's game mode to Survival Mode
 [25Jan2025 01:51:13.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/11980, l='ServerLevel[world]', x=175.48, y=62.00, z=43.48] died, message: 'Cleric was slain by RAKNAROZ'
+[25Jan2025 02:11:27.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RAKNAROZ moved wrongly!
