@@ -65,3 +65,10 @@
 [25Jan2025 02:45:57.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has made the advancement [Voluntary Exile]
 [25Jan2025 02:47:19.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin03x has completed the challenge [Hero of the Village]
 [25Jan2025 02:59:33.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RAKNAROZ> 417 34 -157
+[25Jan2025 03:06:22.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=62, z=-109} BlockPos{x=125, y=62, z=-109}
+[25Jan2025 03:06:22.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=62, z=-109} BlockPos{x=125, y=62, z=-109}
+[25Jan2025 03:06:22.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=62, z=-109} BlockPos{x=125, y=62, z=-109}
+[25Jan2025 03:06:22.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=62, z=-109} BlockPos{x=125, y=62, z=-109}
+[25Jan2025 03:06:22.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=62, z=-109} BlockPos{x=125, y=62, z=-109}
+[25Jan2025 03:06:22.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=62, z=-109} BlockPos{x=125, y=62, z=-109}
+[25Jan2025 03:13:38.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RAKNAROZ was shot by kevin03x
